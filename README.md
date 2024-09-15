@@ -57,12 +57,10 @@ bash
 Copy code
 git clone https://github.com/yourusername/ML-healthcare_premium-Prediction-Regression.git
 cd ML-healthcare_premium-Prediction-Regression
-Install required packages:
+#Install required packages:
 
-bash
-Copy code
 pip install -r requirements.txt
-Run the Streamlit application:
+# Run the Streamlit application:
 
 bash
 Copy code
